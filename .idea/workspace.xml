@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="500ebd9b-3086-43c8-911a-97fa6812558c" name="Default Changelist" comment="fixed pre-register multi language link" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1XrICLqzfvTxMNzueet0b1wpFNN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1728281" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\FlutterProjects\ChatBot\lib" />
+      <recent name="E:\FlutterProjects\ChatBot\assets" />
+      <recent name="E:\FlutterProjects\ChatBot" />
+      <recent name="D:\2emeGLID\chatbot\assets" />
+      <recent name="D:\2emeGLID\chatbot\android\app\src\main\res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="500ebd9b-3086-43c8-911a-97fa6812558c" name="Default Changelist" comment="" />
+      <created>1581761248783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581761248783</updated>
+      <workItem from="1581761284634" duration="1239000" />
+      <workItem from="1581797667151" duration="1722000" />
+      <workItem from="1582745161508" duration="35000" />
+      <workItem from="1587242440067" duration="1554000" />
+      <workItem from="1587244268821" duration="109000" />
+      <workItem from="1587247414834" duration="593000" />
+      <workItem from="1587248040254" duration="4916000" />
+      <workItem from="1587934508311" duration="413000" />
+      <workItem from="1588970144011" duration="2598000" />
+      <workItem from="1589149000982" duration="3637000" />
+      <workItem from="1589320060922" duration="6075000" />
+      <workItem from="1589595114859" duration="4149000" />
+      <workItem from="1589660685011" duration="7745000" />
+      <workItem from="1589759494901" duration="233000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1581762625028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581762625028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="home screen and dialogue flow">
+      <created>1583613625567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583613625567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="json file">
+      <created>1583614968092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583614968092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added image view and dialog for zoom picture , easy_web_view">
+      <created>1589326635331</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589326635331</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added shortcuts and multi language and speech to text">
+      <created>1589599271230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589599271230</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added about us , phone , email , map">
+      <created>1589670138552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589670138552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed pre-register multi language link">
+      <created>1589759690539</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589759690539</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="home screen and dialogue flow" />
+    <MESSAGE value="json file" />
+    <MESSAGE value="added image view and dialog for zoom picture , easy_web_view" />
+    <MESSAGE value="added shortcuts and multi language and speech to text" />
+    <MESSAGE value="added about us , phone , email , map" />
+    <MESSAGE value="fixed pre-register multi language link" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed pre-register multi language link" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587247870767">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587247870767" />
+    <state x="375" y="90" key="#main.dart" timestamp="1587247615387">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="375" y="90" key="#main.dart/0.0.1366.738@0.0.1366.738" timestamp="1587247615387" />
+    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1587244557730">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1587244557730" />
+    <state x="488" y="141" key="FileChooserDialogImpl" timestamp="1587248130609">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="141" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587248130609" />
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1587242712012" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1589675702868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589156173588" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.145.1536.834@0.0.1536.834" timestamp="1589675702868" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.145.1536.834@1920.145.1536.834" timestamp="1589157111528" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1589675702868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589156173588" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/1920.145.1536.834@0.0.1536.834" timestamp="1589675702868" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/1920.145.1536.834@1920.145.1536.834" timestamp="1589157111527" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1589675702868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589156173588" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/1920.145.1536.834@0.0.1536.834" timestamp="1589675702868" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/1920.145.1536.834@1920.145.1536.834" timestamp="1589157111527" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1589675702868">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589156173588" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/1920.145.1536.834@0.0.1536.834" timestamp="1589675702868" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/1920.145.1536.834@1920.145.1536.834" timestamp="1589157111527" />
+    <state x="263" y="104" key="IDE.errors.dialog" timestamp="1587254157951">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="104" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1587254157951" />
+    <state x="395" y="85" key="MultipleFileMergeDialog" timestamp="1589155644385">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="395" y="85" key="MultipleFileMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1589155644385" />
+    <state x="246" y="0" key="SettingsEditor" timestamp="1587248136460">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="246" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587248136460" />
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1587244376827" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1589759702330">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1587242801490" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.145.1536.834@0.0.1536.834" timestamp="1589759702330" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589155633235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1589155633235" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1589595989717">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.145.1536.834@0.0.1536.834" timestamp="1589595989717" />
+  </component>
+</project>
